@@ -140,20 +140,6 @@ These scripts are meant to be:
 - usable directly from the command line
 - understandable months later with clear in-file documentation
 
-They are not currently packaged as a formal Python/R library, and that is intentional.
-
----
-
-## Notes
-
-
-- `assets/Workbench.png` is the current GitHub header banner.
-- `assets/Workbench_editable.svg` is the editable vector version from the earlier custom pixel-art pass.
-- `assets/Workbench_editable_preview.png` is the PNG preview that matches that editable SVG.
-- Most scripts are designed for local command-line use rather than installation through `pip` or `conda`.
-- Output files and intermediate products are usually better kept out of version control; a starter `.gitignore` is included for that purpose.
-- If a script grows substantially in scope, it can later be promoted into its own dedicated repository.
-
 ---
 
 ## Author
